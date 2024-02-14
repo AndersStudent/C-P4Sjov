@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\BusterBustANut",
-    "\\BusterBustANut\\BusterBustANut"
+    "\\BusterBustANut\\BusterBustANut",
+    "\\BusterBustANut\\B_audio",
+    "\\BusterBustANut\\D_audio"
   ],
-  "SelectedNode": "\\BusterBustANut\\BusterBustANut.sln",
+  "SelectedNode": "\\BusterBustANut\\Source1.cpp",
   "PreviewInSolutionExplorer": false
 }
