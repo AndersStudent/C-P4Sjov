@@ -1,7 +1,91 @@
-﻿  ConsoleApplication1.cpp
+﻿  Main.cpp
+libsndfile.lib(sndfile.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
   Generating code
-  10 of 10 functions (100.0%) were compiled.
-    9 functions were new in current compilation
+  3 of 506 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
+libsndfile.lib(sndfile.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(sndfile.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(common.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(common.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(command.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(command.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(strings.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(strings.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(file_io.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(file_io.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(aiff.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(aiff.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(au.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(au.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(avr.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(avr.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(htk.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(htk.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ircam.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ircam.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(mat4.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(mat4.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(mat5.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(mat5.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(nist.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(nist.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(paf.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(paf.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(pvf.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(pvf.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(raw.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(raw.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(sd2.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(sd2.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(sds.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(sds.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(svx.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(svx.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(voc.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(voc.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(w64.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(w64.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(wav.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(wav.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(xi.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(xi.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(flac.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(flac.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(caf.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(caf.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(mpc2k.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(mpc2k.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(rf64.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(rf64.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ogg.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ogg.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(rx2.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(rx2.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(txw.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(txw.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(wve.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(wve.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(dwd.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(dwd.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(float32.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(float32.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(double64.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(double64.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(dither.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(dither.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(chunk.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(chunk.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(broadcast.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(broadcast.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(cart.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(cart.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(id3.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(id3.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(pcm.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(pcm.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ulaw.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ulaw.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(alaw.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(alaw.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(dwvw.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(dwvw.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(gsm610.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(gsm610.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ima_adpcm.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ima_adpcm.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(chanmap.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(chanmap.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(g72x.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(g72x.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(vox_adpcm.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(vox_adpcm.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ms_adpcm.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ms_adpcm.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(wavlike.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(wavlike.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(alac.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(alac.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ogg_vorbis.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ogg_vorbis.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_gsm_create.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_gsm_create.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_gsm_destroy.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_gsm_destroy.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_gsm_option.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_gsm_option.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_gsm_encode.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_gsm_encode.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_gsm_decode.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_gsm_decode.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(g72x.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(g72x.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ima_oki_adpcm.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ima_oki_adpcm.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(audio_detect.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(audio_detect.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(alac_decoder.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(alac_decoder.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(alac_encoder.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(alac_encoder.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ALACBitUtilities.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ALACBitUtilities.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_code.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_code.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_decode.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_decode.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(g721.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(g721.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(g723_16.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(g723_16.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(g723_24.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(g723_24.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(G72x_g723_40.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(G72x_g723_40.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(dp_dec.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(dp_dec.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ag_dec.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ag_dec.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(matrix_dec.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(matrix_dec.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(ag_enc.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(ag_enc.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(dp_enc.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(dp_enc.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(matrix_enc.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(matrix_enc.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_long_term.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_long_term.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_lpc.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_lpc.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_preprocess.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_preprocess.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_short_term.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_short_term.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_rpe.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_rpe.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_add.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_add.obj)' or at ''; linking object as if no debug info
+libsndfile.lib(GSM610_table.obj) : warning LNK4099: PDB '' was not found with 'libsndfile.lib(GSM610_table.obj)' or at ''; linking object as if no debug info
   ConsoleApplication1.vcxproj -> C:\Users\Ander\Documents\C-P4Sjov\BusterBustANut\Release\ConsoleApplication1\x64\Release\ConsoleApplication1.exe

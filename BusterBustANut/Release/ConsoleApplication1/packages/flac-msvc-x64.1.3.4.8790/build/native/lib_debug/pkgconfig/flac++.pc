@@ -1,0 +1,11 @@
+prefix=C:/dev/flac/build-nuget/build/native
+exec_prefix=C:/dev/flac/build-nuget/build/native
+libdir=C:/dev/flac/build-nuget/build/native/lib
+includedir=C:/dev/flac/build-nuget/build/native/include
+
+Name: FLAC++
+Description: Free Lossless Audio Codec Library (C++ API)
+Version: 1.3.4
+Requires: flac
+Libs: -L${libdir} -lFLAC++
+Cflags: -I${includedir}

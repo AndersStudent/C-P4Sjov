@@ -13,24 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Audios">
-      <UniqueIdentifier>{3f9a3f5a-574a-4c5c-9039-0298bd1925bc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Results">
-      <UniqueIdentifier>{cabc04ae-c452-4328-ab8a-e7e405932f98}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="..\..\..\..\..\..\Downloads\Group 3\Group 3\03 Spectral_Matching_Matlab\B_audio\Source1.wav">
-      <Filter>Audios</Filter>
-    </Media>
-    <Media Include="..\..\..\..\..\..\Downloads\Group 3\Group 3\03 Spectral_Matching_Matlab\B_audio\Target1.wav">
-      <Filter>Audios</Filter>
-    </Media>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
